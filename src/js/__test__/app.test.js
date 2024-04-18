@@ -1,4 +1,4 @@
-import Team from '../app';
+import Team from '../app.js';
 
 class Character {
   constructor(name) {
